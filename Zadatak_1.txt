@@ -1,0 +1,13 @@
+Calculator:
+- Broj linija koda 188
+Ciklomatska slozenost pronadjene funkcije: 
+- Calculator::Operations::Operations - Broj linija koda 2, Ciklomatska slozenost: 1
+- Calculator::Operations::ToString - Broj linija koda 3, Ciklomatska slozenost: 1
+- Calculator::Run - Broj linija koda 3, Ciklomatska slozenost: 1
+- Calculator::evaluateExpression - Broj linija koda 33, Ciklomatska slozenost 12
+- Calculator::Calculate - Broj linija koda 77, Ciklomatska slozenost 12
+
+Start:
+- Broj linija koda 26
+Ciklomatska slozenost pronadjene funkcije:
+- Start::main - Broj lnija koda 16, Ciklomatska slozenost 3
